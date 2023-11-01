@@ -1,5 +1,7 @@
 # End to end "text_summarizer"
 
+Reference video : https://www.youtube.com/watch?v=p7V4Aa7qEpw&t=6553s	
+
 ## Workflows
 
 1. Update config.yaml
